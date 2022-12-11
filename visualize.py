@@ -21,6 +21,15 @@ def drawLine(src,dst,w = None):
     if w:
         pass
 
+
+#TODO
+#function for decideng on the node coordinates so that ther are visualy separeted
+def createNodes(graph):
+    #get the node with most connections and count them
+    pass
+
+
+
 centers ={ 0: [0,30], 1: [100,200] }
 
 t.mode("standard")
